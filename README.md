@@ -1,3 +1,10 @@
+# Movie Watch List
+A React Movie Watch List website which communicates with the TMDB API to query for movies and sync your watchlist. Search results are maintained and provided to React components through the React Context API and React Hooks. User data is stored in browser's localStorage allowing users to persist data even after the browser window is closed.
+You can view the website here: https://moviewatchlist2.netlify.app
+
+
+<br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
